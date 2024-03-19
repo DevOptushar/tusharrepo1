@@ -1,0 +1,1 @@
+Git is a distributed version control system known for its speed, workflow compatibility, and open source foundation. With Git, software teams can experiment without fearing that they'll create lasting damage to the source code.
