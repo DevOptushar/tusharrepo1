@@ -1,0 +1,41 @@
+commit b2f6b9138342d4464d406987717a759e51933ef7
+Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
+Date:   Tue Mar 19 17:56:50 2024 +0530
+
+    Ops folder added
+
+commit 7a62532b3ca860b44965323af9c1698d87be7970
+Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
+Date:   Tue Mar 19 17:49:38 2024 +0530
+
+    concepts folder added
+
+commit 9c06607da77fb3aef7b5d61c54c12778a757f04c
+Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
+Date:   Tue Mar 19 17:41:36 2024 +0530
+
+    Folder added
+
+commit 8782c6698027768aa2f1eb454656dbe561ee6a11
+Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
+Date:   Tue Mar 19 17:34:00 2024 +0530
+
+    Latest updated file
+
+commit cf3f6ff0a1b61fe8e35c4d6d4438323bfed1e237
+Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
+Date:   Tue Mar 19 17:27:50 2024 +0530
+
+    Content is Updated
+
+commit 73bf489d4b06ce2e6a76623908db32402d66c016
+Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
+Date:   Tue Mar 19 17:12:01 2024 +0530
+
+    adding a new file
+
+commit f661a6546a3855e900be4aa3072bd5f6b913d50c
+Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
+Date:   Tue Mar 19 17:01:10 2024 +0530
+
+    added first file
