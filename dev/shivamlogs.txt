@@ -1,8 +1,28 @@
+commit c84fd243d9d2dc52a41fba51accdbc9a96ef2311
+Author: DevOptushar <163633943+DevOptushar@users.noreply.github.com>
+Date:   Wed Mar 20 11:32:33 2024 +0530
+
+    Create fromgit.txt 'added'
+
+commit 4bd2876c50735aa5c99d7f224882f237801ae915
+Merge: 20d446d b2f6b91
+Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
+Date:   Tue Mar 19 17:57:42 2024 +0530
+
+    Merge branch 'shivam'
+
 commit b2f6b9138342d4464d406987717a759e51933ef7
 Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
 Date:   Tue Mar 19 17:56:50 2024 +0530
 
     Ops folder added
+
+commit 20d446da03c4a76ed562fcb1814d5f3eca2f6351
+Merge: b14dbcb 7a62532
+Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
+Date:   Tue Mar 19 17:53:03 2024 +0530
+
+    Merge branch 'shivam'
 
 commit 7a62532b3ca860b44965323af9c1698d87be7970
 Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
@@ -16,11 +36,27 @@ Date:   Tue Mar 19 17:41:36 2024 +0530
 
     Folder added
 
+commit b14dbcb3ec95c2c3f210024e95574f5ac972100a
+Merge: e2d4ed3 8782c66
+Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
+Date:   Tue Mar 19 17:35:36 2024 +0530
+
+    Merge branch 'shivam'
+    
+    All files are merged.
+
 commit 8782c6698027768aa2f1eb454656dbe561ee6a11
 Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
 Date:   Tue Mar 19 17:34:00 2024 +0530
 
     Latest updated file
+
+commit e2d4ed3f176e3c993abb1b166382036446044f0b
+Merge: b48de7c cf3f6ff
+Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
+Date:   Tue Mar 19 17:29:54 2024 +0530
+
+    Merge branch 'shivam'
 
 commit cf3f6ff0a1b61fe8e35c4d6d4438323bfed1e237
 Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
@@ -33,6 +69,12 @@ Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
 Date:   Tue Mar 19 17:12:01 2024 +0530
 
     adding a new file
+
+commit b48de7cdd862d5e901b6172d3fdd53373f790b4b
+Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
+Date:   Tue Mar 19 17:07:00 2024 +0530
+
+    content is added
 
 commit f661a6546a3855e900be4aa3072bd5f6b913d50c
 Author: Tushar Satpal <tushar.satpal@Polestarllp.local>
